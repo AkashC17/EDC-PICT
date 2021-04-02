@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370599888593",
+    "project_id": "edc-pict",
+    "storage_bucket": "edc-pict.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370599888593:android:62a78f70be855ac782e7f0",
+        "android_client_info": {
+          "package_name": "com.example.edc_pict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370599888593-8r3vedlgrfuutnb7dumj8t437mj7kft4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxGPEorJGq94c_6hlQM7deTihFCwyXaIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370599888593-8r3vedlgrfuutnb7dumj8t437mj7kft4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
